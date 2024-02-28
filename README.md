@@ -69,7 +69,7 @@ flowchart TD
   ├── Procfile
   ├── Procfile.dev
   ├── README.md
-  ├── app.py
+  ├── my_app.py
   ├── config.py
   ├── error.log
   ├── forms.py
@@ -107,7 +107,7 @@ flowchart TD
   │       │   └── respond-1.3.0.min.js
   │       ├── plugins.js
   │       └── script.js
-  └── templates
+  └── templates2
       ├── errors
       │   ├── 404.html
       │   └── 500.html

@@ -2,12 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
+ya-flask-boilerplate-venv
 build/
 develop-eggs/
 dist/
